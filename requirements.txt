@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+tqdm
+pandas
+numpy
+pystac-client
+planetary-computer
+rasterio
+pyproj
+scikit-learn
+scipy
+statsmodels
+optuna
+lightgbm
+catboost
+geopandas
+shapely
